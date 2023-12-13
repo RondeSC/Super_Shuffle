@@ -1,4 +1,11 @@
 
+//	  Super_Shuffle
+// source: https://github.com/RondeSC/Super_Shuffle
+// license: Attribution-NonCommercial-ShareAlike
+// Copyright 2022 Ronald R. Miller
+// http://www.apache.org/licenses/LICENSE-2.0
+//
+
 #define MillerShuffle MillerShuffleAlgo_e
 // MillerShuffle source: https://github.com/RondeSC/Miller_Shuffle_Algo 
 
