@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Super_Shuffle_demo.sln
+/Super_Shuffle_demo.vcxproj
+/Super_Shuffle_demo.vcxproj.filters
+/CppProperties.json
+/.gitattributes
+/.gitignore
