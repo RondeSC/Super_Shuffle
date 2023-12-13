@@ -2,7 +2,7 @@
 //	  Super_Shuffle
 // source: https://github.com/RondeSC/Super_Shuffle
 // license: Attribution-NonCommercial-ShareAlike
-// Copyright 2022 Ronald R. Miller
+// Copyright 2023 Ronald R. Miller
 // http://www.apache.org/licenses/LICENSE-2.0
 //
 
