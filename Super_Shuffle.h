@@ -7,6 +7,7 @@
 //
 
 #define MillerShuffle MillerShuffleAlgo_e
+#define PRIG MillerShuffleAlgo_e
 // MillerShuffle source: https://github.com/RondeSC/Miller_Shuffle_Algo 
 
 unsigned int MillerShuffleAlgo_e(unsigned int, unsigned int, unsigned int);  // advance prototype
